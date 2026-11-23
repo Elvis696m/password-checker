@@ -1,0 +1,11 @@
+#myBtn {
+    width: 70px;
+    background-color: green;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+#password {
+    border: 2px solid;
+    border-radius: 20px;
+}
